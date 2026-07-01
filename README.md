@@ -15,9 +15,9 @@ El bot permite consultar información de forma rápida y sencilla, promoviendo e
 
 - Python
 - Discord.py
-- APIs como:   
+- APIs gratuitas como: NASA APOD API (Astronomy Picture of the Day), Open-Meteo y Useless Facts API
 - Requests
-- Git & GitHub
+- Git y GitHub
 
 ## Objetivo
 
