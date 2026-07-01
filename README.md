@@ -15,8 +15,7 @@ El bot permite consultar información de forma rápida y sencilla, promoviendo e
 
 - Python
 - Discord.py
-- APIs REST
-- JSON
+- APIs como:   
 - Requests
 - Git & GitHub
 
