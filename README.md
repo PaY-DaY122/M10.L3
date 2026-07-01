@@ -7,7 +7,7 @@ Bot de Discord desarrollado en Python que utiliza APIs para entregar informació
 
 ## Descripción
 
-Este proyecto tiene como finalidad demostrar el uso de APIs, JSON y Discord.py en el desarrollo de una aplicación capaz de informar sobre una problemática ambiental de gran importancia: el cambio climático.
+Este proyecto tiene como finalidad demostrar el uso de APIs y Discord.py en el desarrollo de una aplicación capaz de informar sobre una problemática ambiental de gran importancia: el cambio climático.
 
 El bot permite consultar información de forma rápida y sencilla, promoviendo el aprendizaje y la conciencia ambiental desde una plataforma de uso cotidiano.
 
